@@ -1,1 +1,1 @@
-Mods designed specifically for the Antum game.
+Entity engine for the Antum game.
